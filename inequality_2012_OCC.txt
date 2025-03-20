@@ -1,0 +1,259 @@
+Year: 2012
+Occupational variable: OCC
+Total observations: 2441532
+Observations after filtering: 2441532
+Observations with negative income: 2077 (0.09%)
+Top-coded observations: 0 (0.00%)
+Pareto alpha: NA
+Mean income above top-code: NA
+Maximum income after adjustment: 1360000.00
+
+Broad Demographic Group Income Statistics:
+
+
+
+|Group           |      N| % of Pop| Mean Income| Median Income| % of Total Income| % of National Mean| % of National Median|
+|:---------------|------:|--------:|-----------:|-------------:|-----------------:|------------------:|--------------------:|
+|White men       | 825588|    33.81|    51259.43|         35000|             46.63|             145.11|               159.09|
+|Non-white men   | 347257|    14.22|    31212.51|         20000|             14.54|              88.36|                90.91|
+|White women     | 888479|    36.39|    29242.75|         19000|             28.01|              82.78|                86.36|
+|Non-white women | 380208|    15.57|    21751.48|         12800|             10.82|              61.58|                58.18|
+
+Broad Demographic Group Characteristics:
+
+
+
+|Group           | % HS Complete| % Labor Force| % Unemployed| % Foreign Born| Weeks Worked| % College| % Institutionalized|
+|:---------------|-------------:|-------------:|------------:|--------------:|------------:|---------:|-------------------:|
+|White men       |         92.10|         70.27|         7.77|           5.20|        32.90|     30.47|                1.45|
+|White women     |         93.00|         58.75|         6.83|           5.51|        27.45|     30.09|                1.11|
+|Non-white men   |         78.18|         72.46|        11.95|          41.13|        32.12|     17.98|                3.85|
+|Non-white women |         80.61|         62.11|        12.44|          40.41|        27.11|     20.97|                0.72|
+
+Demographic Group Income Statistics:
+
+
+
+|Group           |       N| % of Pop| Mean Income| Median Income| % of Total Income| % of National Mean| % of National Median|
+|:---------------|-------:|--------:|-----------:|-------------:|-----------------:|------------------:|--------------------:|
+|White Male      |  825588|    33.81|    51259.43|         35000|             46.63|             145.11|               159.09|
+|Other Male      |   83763|     3.43|    44764.74|         25000|              4.47|             126.72|               113.64|
+|Male            | 1172845|    48.04|    44469.97|         29000|             61.17|             125.89|               131.82|
+|White           | 1714067|    70.20|    39966.43|         25300|             74.64|             113.14|               115.00|
+|Other           |  178401|     7.31|    35460.85|         19000|              7.51|             100.39|                86.36|
+|White Female    |  888479|    36.39|    29242.75|         19000|             28.01|              82.78|                86.36|
+|Hispanic Male   |  142244|     5.83|    28497.54|         20000|              5.87|              80.67|                90.91|
+|Other Female    |   94638|     3.88|    27183.73|         14000|              3.05|              76.95|                63.64|
+|Female          | 1268687|    51.96|    26681.77|         16700|             38.83|              75.53|                75.91|
+|Black Male      |  121250|     4.97|    26258.52|         16000|              4.20|              74.34|                72.73|
+|Black           |  260114|    10.65|    24518.63|         15100|              8.42|              69.41|                68.64|
+|Hispanic        |  295445|    12.10|    23097.63|         15000|              9.63|              65.39|                68.18|
+|Black Female    |  138864|     5.69|    23001.51|         15000|              4.22|              65.11|                68.18|
+|Hispanic Female |  146706|     6.01|    17600.62|         10600|              3.56|              49.83|                48.18|
+
+Demographic Group Characteristics:
+
+
+
+|Group           | % HS Complete| % Labor Force| % Unemployed| % Foreign Born| Weeks Worked| % College| % Institutionalized|
+|:---------------|-------------:|-------------:|------------:|--------------:|------------:|---------:|-------------------:|
+|White Male      |         92.10|         70.27|         7.77|           5.20|        32.90|     30.47|                1.45|
+|Black Male      |         83.86|         64.01|        17.36|          11.89|        27.11|     14.05|                6.85|
+|Black Female    |         86.79|         63.93|        15.16|          11.96|        27.34|     18.59|                1.15|
+|White Female    |         93.00|         58.75|         6.83|           5.51|        27.45|     30.09|                1.11|
+|Hispanic Male   |         68.20|         78.83|         9.86|          55.41|        35.47|     10.86|                2.60|
+|Hispanic Female |         70.95|         61.22|        11.84|          54.20|        26.77|     13.43|                0.45|
+|Other Male      |         89.68|         72.86|         9.04|          58.50|        33.24|     38.97|                1.62|
+|Other Female    |         87.91|         60.74|         8.83|          62.10|        27.36|     38.42|                0.49|
+|Black           |         85.43|         63.97|        16.19|          11.93|        27.23|     16.48|                3.81|
+|Hispanic        |         69.74|         70.08|        10.82|          54.65|        31.11|     12.18|                1.56|
+|White           |         92.56|         64.36|         7.33|           5.36|        30.11|     30.28|                1.28|
+|Other           |         88.74|         66.45|         8.93|          60.41|        30.13|     38.68|                1.02|
+|Male            |         87.39|         71.01|         9.22|          17.37|        32.64|     26.24|                2.26|
+|Female          |         88.76|         59.90|         8.82|          17.44|        27.34|     26.97|                0.98|
+
+Demographic Group by Education Summary Statistics:
+
+
+
+|Education            |Group           |       N| Mean Income| Median Income| % Institutionalized| % of National Mean| % of National Median|
+|:--------------------|:---------------|-------:|-----------:|-------------:|-------------------:|------------------:|--------------------:|
+|College Graduate     |Black           |   40800|    50414.84|      41000.00|                0.64|             142.72|               186.36|
+|College Graduate     |Black Female    |   25147|    45357.56|      39837.00|                0.43|             128.40|               181.08|
+|College Graduate     |Black Male      |   15653|    58088.83|      45700.00|                0.94|             164.44|               207.73|
+|College Graduate     |Female          |  340874|    46887.04|      37500.00|                0.34|             132.73|               170.45|
+|College Graduate     |Hispanic        |   38020|    50286.96|      38000.00|                0.23|             142.36|               172.73|
+|College Graduate     |Hispanic Female |   20764|    38944.22|      30600.00|                0.11|             110.25|               139.09|
+|College Graduate     |Hispanic Male   |   16318|    64096.12|      47000.00|                0.34|             181.45|               213.64|
+|College Graduate     |Male            |  310063|    83337.63|      60000.00|                0.39|             235.92|               272.73|
+|College Graduate     |Other           |   65619|    59356.55|      43445.90|                0.16|             168.03|               197.48|
+|College Graduate     |Other Female    |   34842|    43934.27|      31300.00|                0.14|             124.37|               142.27|
+|College Graduate     |Other Male      |   30777|    76448.30|      60000.00|                0.18|             216.42|               272.73|
+|College Graduate     |White           |  507436|    67691.19|      49300.00|                0.38|             191.63|               224.09|
+|College Graduate     |White Female    |  260121|    48256.88|      38600.00|                0.38|             136.61|               175.45|
+|College Graduate     |White Male      |  247315|    87905.69|      62000.00|                0.38|             248.85|               281.82|
+|Dropout              |Black           |   43672|    11129.27|       8300.00|                9.95|              31.51|                37.73|
+|Dropout              |Black Female    |   20457|    10437.62|       8400.00|                3.45|              29.55|                38.18|
+|Dropout              |Black Male      |   23215|    11778.40|       7800.00|               16.05|              33.34|                35.45|
+|Dropout              |Female          |  140370|    10603.89|       8400.00|                2.62|              30.02|                38.18|
+|Dropout              |Hispanic        |   88897|    14612.95|      11000.00|                2.49|              41.37|                50.00|
+|Dropout              |Hispanic Female |   42264|     9204.99|       7000.00|                0.71|              26.06|                31.82|
+|Dropout              |Hispanic Male   |   45180|    19507.61|      16000.00|                4.01|              55.22|                72.73|
+|Dropout              |Male            |  147131|    18656.52|      13400.00|                6.08|              52.81|                60.91|
+|Dropout              |Other           |   21284|    12882.97|       8400.00|                2.80|              36.47|                38.18|
+|Dropout              |Other Female    |   11837|    10472.61|       7700.00|                1.34|              29.65|                35.00|
+|Dropout              |Other Male      |    9447|    16054.55|       9600.00|                4.73|              45.45|                43.64|
+|Dropout              |White           |  135101|    16469.81|      11000.00|                4.43|              46.62|                50.00|
+|Dropout              |White Female    |   65812|    11914.24|       9016.35|                4.25|              33.73|                40.98|
+|Dropout              |White Male      |   69289|    20725.09|      14000.00|                4.59|              58.67|                63.64|
+|High School Graduate |Black           |  175642|    21160.27|      15000.00|                3.27|              59.90|                68.18|
+|High School Graduate |Black Female    |   93260|    19340.34|      14000.00|                0.91|              54.75|                63.64|
+|High School Graduate |Black Male      |   82382|    23199.34|      15800.00|                5.92|              65.68|                71.82|
+|High School Graduate |Female          |  787443|    20784.94|      14741.00|                0.95|              58.84|                67.00|
+|High School Graduate |Hispanic        |  168528|    21802.36|      15800.00|                1.36|              61.72|                71.82|
+|High School Graduate |Hispanic Female |   83678|    16856.97|      12000.00|                0.40|              47.72|                54.55|
+|High School Graduate |Hispanic Male   |   80746|    26740.35|      20000.00|                2.24|              75.70|                90.91|
+|High School Graduate |Male            |  715651|    33116.57|      25000.00|                2.28|              93.75|               113.64|
+|High School Graduate |Other           |   91498|    22073.50|      13500.00|                1.28|              62.49|                61.36|
+|High School Graduate |Other Female    |   47959|    18259.51|      10900.00|                0.54|              51.69|                49.55|
+|High School Graduate |Other Male      |   43539|    26258.01|      17500.00|                2.10|              74.33|                79.55|
+|High School Graduate |White           | 1071530|    29295.03|      21000.00|                1.33|              82.93|                95.45|
+|High School Graduate |White Female    |  562546|    22074.87|      15600.00|                1.11|              62.49|                70.91|
+|High School Graduate |White Male      |  508984|    37054.77|      29000.00|                1.58|             104.90|               131.82|
+
+Model 1:
+Number of observations: 2441532 
+R-squared: 0.2341 
+Within R-squared: 0.1755 
+
+                                        Estimate Std..Error  t.value P.value
+black_female                            -51.9772     2.4870 -20.8995  0.0000
+black_male                              -29.4996     2.4424 -12.0782  0.0000
+white_female                            -41.5224     1.5772 -26.3259  0.0000
+hispanic_female                         -67.6262     4.6936 -14.4082  0.0000
+hispanic_male                           -10.2837     4.1503  -2.4778  0.0166
+other_female                            -59.4854     3.7027 -16.0654  0.0000
+other_male                              -25.0725     5.1033  -4.9130  0.0000
+foreign_born                            -18.5293     2.1905  -8.4590  0.0000
+institutionalized                       -84.8334     2.7621 -30.7137  0.0000
+high_school_completion                   68.7257     1.5648  43.9210  0.0000
+college_graduate                        228.3482     6.4071  35.6396  0.0000
+black_female:high_school_completion     -32.1844     2.0996 -15.3287  0.0000
+black_male:high_school_completion       -30.6753     2.0461 -14.9923  0.0000
+white_female:high_school_completion     -32.3412     1.3374 -24.1818  0.0000
+hispanic_female:high_school_completion  -19.4624     2.7391  -7.1054  0.0000
+hispanic_male:high_school_completion    -25.3128     2.1560 -11.7404  0.0000
+other_female:high_school_completion     -23.7966     2.9730  -8.0042  0.0000
+other_male:high_school_completion       -14.1034     3.1935  -4.4163  0.0001
+black_female:college_graduate          -120.5423     5.1459 -23.4247  0.0000
+black_male:college_graduate             -84.3164     6.2989 -13.3859  0.0000
+white_female:college_graduate          -115.4110     4.5040 -25.6240  0.0000
+hispanic_female:college_graduate       -140.8289     5.1164 -27.5251  0.0000
+hispanic_male:college_graduate          -73.3978     6.5780 -11.1581  0.0000
+other_female:college_graduate          -118.9466     4.2955 -27.6910  0.0000
+other_male:college_graduate              -7.7756     6.3228  -1.2298  0.2245
+
+
+Model 2:
+Number of observations: 2441532 
+R-squared: 0.3133 
+Within R-squared: 0.2608 
+
+                                        Estimate Std..Error  t.value P.value
+black_female                            -31.8671     2.3604 -13.5005  0.0000
+black_male                              -10.1806     1.7433  -5.8398  0.0000
+white_female                            -28.7851     1.1901 -24.1871  0.0000
+hispanic_female                         -48.8683     4.2943 -11.3797  0.0000
+hispanic_male                           -35.7377     4.9844  -7.1698  0.0000
+other_female                            -45.1502     3.8285 -11.7931  0.0000
+other_male                              -25.4986     6.2443  -4.0835  0.0002
+foreign_born                            -19.9355     2.5161  -7.9230  0.0000
+weeks_worked                              3.4238     0.0804  42.5761  0.0000
+institutionalized                       -25.9954     1.0336 -25.1506  0.0000
+high_school_completion                   39.3269     1.2267  32.0595  0.0000
+college_graduate                        209.2645     5.9375  35.2443  0.0000
+black_female:high_school_completion     -31.6912     2.0404 -15.5321  0.0000
+black_male:high_school_completion       -30.1661     1.6847 -17.9061  0.0000
+white_female:high_school_completion     -31.1313     1.1108 -28.0261  0.0000
+hispanic_female:high_school_completion  -17.3683     2.5868  -6.7143  0.0000
+hispanic_male:high_school_completion     -2.6237     2.7011  -0.9713  0.3361
+other_female:high_school_completion     -12.8076     3.3027  -3.8779  0.0003
+other_male:high_school_completion        -2.0243     4.5114  -0.4487  0.6556
+black_female:college_graduate          -127.7985     4.9453 -25.8425  0.0000
+black_male:college_graduate             -96.7667     5.8849 -16.4433  0.0000
+white_female:college_graduate          -111.3518     4.2846 -25.9891  0.0000
+hispanic_female:college_graduate       -141.1385     5.1549 -27.3795  0.0000
+hispanic_male:college_graduate          -68.8541     6.3097 -10.9124  0.0000
+other_female:college_graduate          -112.4009     4.2178 -26.6492  0.0000
+other_male:college_graduate             -14.3381     5.8409  -2.4548  0.0176
+
+
+Model 3:
+Number of observations: 2441532 
+R-squared: 0.4123 
+Within R-squared: 0.1241 
+
+                                        Estimate Std..Error  t.value P.value
+black_female                            -25.7420     1.8542 -13.8827  0.0000
+black_male                               -6.5884     1.3704  -4.8076  0.0000
+white_female                            -27.6244     1.0365 -26.6509  0.0000
+hispanic_female                         -36.4175     3.5376 -10.2945  0.0000
+hispanic_male                           -18.8193     4.1619  -4.5218  0.0000
+other_female                            -40.0130     3.8166 -10.4838  0.0000
+other_male                              -18.2459     5.5118  -3.3103  0.0017
+foreign_born                            -14.4315     1.7772  -8.1204  0.0000
+weeks_worked                              3.1389     0.0719  43.6735  0.0000
+institutionalized                       -27.0880     0.9222 -29.3743  0.0000
+high_school_completion                   28.2679     0.9747  29.0007  0.0000
+college_graduate                        133.1008     3.9344  33.8299  0.0000
+black_female:high_school_completion     -19.2122     1.6353 -11.7483  0.0000
+black_male:high_school_completion       -17.8318     1.3843 -12.8811  0.0000
+white_female:high_school_completion     -22.2673     0.9910 -22.4702  0.0000
+hispanic_female:high_school_completion  -13.5795     2.5075  -5.4156  0.0000
+hispanic_male:high_school_completion     -5.6644     2.5804  -2.1951  0.0328
+other_female:high_school_completion      -6.4277     2.9466  -2.1814  0.0339
+other_male:high_school_completion        -3.2572     3.5733  -0.9115  0.3664
+black_female:college_graduate           -95.1846     4.3045 -22.1128  0.0000
+black_male:college_graduate             -81.1984     5.3811 -15.0897  0.0000
+white_female:college_graduate           -76.0861     3.2227 -23.6094  0.0000
+hispanic_female:college_graduate       -102.4683     3.8279 -26.7688  0.0000
+hispanic_male:college_graduate          -62.6136     4.6645 -13.4235  0.0000
+other_female:college_graduate           -98.2119     3.4961 -28.0916  0.0000
+other_male:college_graduate             -34.1031     5.3534  -6.3703  0.0000
+
+
+Gini Coefficients by Demographic Group:
+
+
+|Demographic Group | Gini Coefficient| Number of Observations|
+|:-----------------|----------------:|----------------------:|
+|ALL               |            0.572|                2441532|
+|WHITE MALE        |            0.533|                 825588|
+|BLACK MALE        |            0.584|                 121250|
+|BLACK FEMALE      |            0.547|                 138864|
+|WHITE FEMALE      |            0.551|                 888479|
+|HISPANIC MALE     |            0.525|                 142244|
+|HISPANIC FEMALE   |            0.604|                 146706|
+|OTHER MALE        |            0.598|                  83763|
+|OTHER FEMALE      |            0.629|                  94638|
+
+Demographic Composition by Income Decile (%):
+
+
+|Income Decile | White male| Black male| Black female| White female| Hispanic male| Hispanic female| Other male| Other female|
+|:-------------|----------:|----------:|------------:|------------:|-------------:|---------------:|----------:|------------:|
+|0-10          |      16.66|       8.72|         7.47|        33.68|          6.91|           15.10|       4.03|         7.44|
+|10-20         |      23.14|       7.18|         8.22|        35.98|          6.80|            9.98|       3.53|         5.16|
+|20-30         |      19.72|       6.28|         9.36|        40.16|          7.07|            9.80|       3.02|         4.59|
+|30-40         |      23.88|       5.55|         8.09|        39.02|          8.36|            8.69|       2.74|         3.67|
+|40-50         |      27.84|       5.17|         7.00|        36.11|          9.97|            7.79|       2.85|         3.27|
+|50-60         |      30.92|       5.28|         6.75|        35.07|          9.54|            6.45|       2.89|         3.10|
+|60-70         |      35.52|       5.20|         6.20|        34.22|          7.90|            4.96|       2.97|         3.05|
+|70-80         |      40.74|       5.16|         5.10|        32.19|          6.67|            3.96|       3.19|         2.99|
+|80-90         |      45.76|       4.64|         4.22|        29.94|          5.45|            2.96|       3.90|         3.14|
+|90-100        |      57.14|       3.32|         2.40|        21.99|          4.15|            1.67|       6.13|         3.20|
+|Overall       |      32.13|       5.65|         6.48|        33.84|          7.28|            7.14|       3.52|         3.96|
+
+Household-Level Income Inequality:
+Overall Household Gini Coefficient: 0.474 
+
